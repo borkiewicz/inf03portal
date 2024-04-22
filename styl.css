@@ -1,0 +1,48 @@
+*{
+    font-family: Georgia;
+}
+.baner{
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+}
+.glowny{
+    background-color: #E1E2E1;
+    height: 800px;
+    padding: 20px;
+    overflow: scroll;
+}
+img{
+    width: 20%;
+    border-radius: 100%;
+    padding:20px;
+}
+.stopka1,.stopka2{
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    width: 50%;
+    height: 20px;
+    float: left;
+}
+img{
+    padding: 20px; /* Marginesy wewnętrzne 20 px */
+    border-radius: 50%; /* Zakrzywienie obramowania 100% (kształt koła) */
+}
+  
+h2{
+    text-align: center; /* Wyrównanie tekstu do środka */
+    background-color: #00897B; /* Tło #00897B */
+}
+  
+a{
+    color: white; /* Biały kolor czcionki */
+}
+p,h3{
+    text-align: center;
+}
+.linia{
+    clear: both;
+}
